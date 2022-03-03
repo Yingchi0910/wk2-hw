@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
   },
   artistStyle:{
     fontWeight:"normal",
-    paddingTop:10,
+    paddingTop:8,
     paddingBottom:30,
     fontSize:15,
     color:"#121738",

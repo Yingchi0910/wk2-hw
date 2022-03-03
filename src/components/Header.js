@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
     shadowColor: "#000",
     shadowOffset: { width: 0, height: 0 },
     shadowOpacity: 0,
+    opacity:0.8,
   },
   textStyle: {
     color:"#E0E0E0",
